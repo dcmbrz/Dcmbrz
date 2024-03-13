@@ -1,6 +1,6 @@
 Greetings! 👋
 
-** Digital Craftsman (Developer/Public Health/Health Informatics) ** n/
+** Digital Craftsman (Developer/Public Health/Health Informatics) ** 
 
 
 As a young professional bursting with energy and optimism, I'm eagerly looking
