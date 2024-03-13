@@ -1,6 +1,8 @@
 Greetings! 👋
 
-** Digital Craftsman (Developer/Public Health/Health Informatics) **
+** Digital Craftsman (Developer/Public Health/Health Informatics) ** n/
+
+
 As a young professional bursting with energy and optimism, I'm eagerly looking
 ahead to the exciting journey that lies before me. With a background in Public Health Policy 
 and a genuine love for computer science and AI, I'm passionate about making healthcare 
@@ -13,16 +15,4 @@ to live healthier, happier lives. As I step into this next chapter of my journey
 about the opportunity to make a real difference in the world by combining my interests and
 skills. Let's embark on this adventure together and see where it takes us!
 
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
